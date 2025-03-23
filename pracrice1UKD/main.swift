@@ -276,3 +276,4 @@ func setupAndRun() {
 // Запуск програми
 setupAndRun()
 
+//
